@@ -125,6 +125,7 @@ style.css
 }
 ```
 
-If we look at the browser this is how it should look
+If we look at the browser this is how our page looks right now.
 
+[header](header.png) 
 
